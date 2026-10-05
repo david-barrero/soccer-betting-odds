@@ -1,0 +1,6 @@
+# Database is ~300 MB, too large for GitHub. Download from Kaggle.
+data/
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
